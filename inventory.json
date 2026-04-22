@@ -1,0 +1,17 @@
+{
+    "R-HQ": {"port": 32769},
+    "R-Branch1": {"port": 32770},
+    "R-Branch2": {"port": 32771},
+    "CSW1": {"port": 32774},
+    "CSW2": {"port": 32775},
+    "ASW1": {"port": 32773},
+    "ASW2": {"port": 32776},
+    "VPC_1": {"port": 32778},
+    "VPC_2": {"port": 32779},
+    "VPC_B1": {"port": 32780},
+    "VPC_B2": {"port": 32781},
+    "VPC_B3": {"port": 32783},
+    "VPC_B4": {"port": 32784},
+    "VPC_B5": {"port": 32782},
+    "VPC_B6": {"port": 32785}
+}
